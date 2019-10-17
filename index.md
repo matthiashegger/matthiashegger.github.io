@@ -1,6 +1,6 @@
 # Online Auktionen im Beschaffungsmanagement 
 
-[Löwe](Löwe.jpg) 
+! [Löwe](Löwe.jpg) 
 
 Nulla laboris incididunt sit eu minim laborum in laboris amet incididunt do adipisicing laborum. Veniam reprehenderit anim officia commodo ad aliqua est do ad consectetur amet consectetur et dolor. Nisi fugiat minim ut occaecat.
 
