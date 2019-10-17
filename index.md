@@ -2,7 +2,7 @@
 
 [Löwe](Löwe.jpg) 
 
-[Uno] (nlog/abc.md)
+[Löwe] (Löwe.md)
 
 Nulla laboris incididunt sit eu minim laborum in laboris amet incididunt do adipisicing laborum. Veniam reprehenderit anim officia commodo ad aliqua est do ad consectetur amet consectetur et dolor. Nisi fugiat minim ut occaecat.
 
